@@ -20,6 +20,10 @@
 *.tar
 *.zip
 
+# Project files #
+#################
+/.idea
+
 # Logs and databases #
 ######################
 *.log
